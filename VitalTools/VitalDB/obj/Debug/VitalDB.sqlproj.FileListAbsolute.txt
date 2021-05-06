@@ -1,0 +1,15 @@
+C:\Users\renau\OneDrive\Projets\VitalTools\VitalDB\bin\Debug\VitalDB.dacpac
+C:\Users\renau\OneDrive\Projets\VitalTools\VitalDB\bin\Debug\VitalDB.dll
+C:\Users\renau\OneDrive\Projets\VitalTools\VitalDB\bin\Debug\VitalDB.pdb
+C:\Users\renau\OneDrive\Projets\VitalTools\VitalDB\obj\Debug\VitalDB.dll
+C:\Users\renau\OneDrive\Projets\VitalTools\VitalDB\obj\Debug\VitalDB.pdb
+C:\Users\renau\OneDrive\Projets\VitalTools\VitalDB\obj\Debug\VitalDB.sqlprojAssemblyReference.cache
+C:\Users\renau\OneDrive\Projets\Applications\My_DotNET_ToolBoxes\VitalTools\VitalDB\bin\Debug\VitalDB.dacpac
+C:\Users\renau\OneDrive\Projets\Applications\My_DotNET_ToolBoxes\VitalTools\VitalDB\bin\Debug\VitalDB.dll
+C:\Users\renau\OneDrive\Projets\Applications\My_DotNET_ToolBoxes\VitalTools\VitalDB\bin\Debug\VitalDB.pdb
+C:\Users\renau\OneDrive\Projets\Applications\My_DotNET_ToolBoxes\VitalTools\VitalDB\obj\Debug\Model.xml
+C:\Users\renau\OneDrive\Projets\Applications\My_DotNET_ToolBoxes\VitalTools\VitalDB\obj\Debug\refactor.xml
+C:\Users\renau\OneDrive\Projets\Applications\My_DotNET_ToolBoxes\VitalTools\VitalDB\obj\Debug\postdeploy.sql
+C:\Users\renau\OneDrive\Projets\Applications\My_DotNET_ToolBoxes\VitalTools\VitalDB\obj\Debug\predeploy.sql
+C:\Users\renau\OneDrive\Projets\Applications\My_DotNET_ToolBoxes\VitalTools\VitalDB\obj\Debug\VitalDB.dll
+C:\Users\renau\OneDrive\Projets\Applications\My_DotNET_ToolBoxes\VitalTools\VitalDB\obj\Debug\VitalDB.pdb

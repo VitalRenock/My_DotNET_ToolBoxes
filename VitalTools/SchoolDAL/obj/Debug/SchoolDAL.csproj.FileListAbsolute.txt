@@ -1,0 +1,12 @@
+C:\Users\renau\OneDrive\Projets\SchoolManagement\SchoolDAL\bin\Debug\SchoolDAL.dll
+C:\Users\renau\OneDrive\Projets\SchoolManagement\SchoolDAL\bin\Debug\SchoolDAL.pdb
+C:\Users\renau\OneDrive\Projets\SchoolManagement\SchoolDAL\obj\Debug\SchoolDAL.csprojAssemblyReference.cache
+C:\Users\renau\OneDrive\Projets\SchoolManagement\SchoolDAL\obj\Debug\SchoolDAL.csproj.CoreCompileInputs.cache
+C:\Users\renau\OneDrive\Projets\SchoolManagement\SchoolDAL\obj\Debug\SchoolDAL.dll
+C:\Users\renau\OneDrive\Projets\SchoolManagement\SchoolDAL\obj\Debug\SchoolDAL.pdb
+C:\Users\renau\OneDrive\Projets\VitalTools\SchoolDAL\bin\Debug\SchoolDAL.dll
+C:\Users\renau\OneDrive\Projets\VitalTools\SchoolDAL\bin\Debug\SchoolDAL.pdb
+C:\Users\renau\OneDrive\Projets\VitalTools\SchoolDAL\obj\Debug\SchoolDAL.csprojAssemblyReference.cache
+C:\Users\renau\OneDrive\Projets\VitalTools\SchoolDAL\obj\Debug\SchoolDAL.csproj.CoreCompileInputs.cache
+C:\Users\renau\OneDrive\Projets\VitalTools\SchoolDAL\obj\Debug\SchoolDAL.dll
+C:\Users\renau\OneDrive\Projets\VitalTools\SchoolDAL\obj\Debug\SchoolDAL.pdb

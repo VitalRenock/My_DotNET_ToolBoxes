@@ -1,0 +1,16 @@
+C:\Users\renau\Projets\My_DotNET_ToolBoxes\VitalTools\VitalTools\obj\Release\VitalTools.csprojAssemblyReference.cache
+C:\Users\renau\Projets\My_DotNET_ToolBoxes\VitalTools\VitalTools\obj\Release\VitalTools.csproj.CoreCompileInputs.cache
+C:\Users\renau\Projets\My_DotNET_ToolBoxes\VitalTools\VitalTools\bin\Release\VitalTools.dll.config
+C:\Users\renau\Projets\My_DotNET_ToolBoxes\VitalTools\VitalTools\bin\Release\VitalTools.dll
+C:\Users\renau\Projets\My_DotNET_ToolBoxes\VitalTools\VitalTools\bin\Release\VitalTools.pdb
+C:\Users\renau\Projets\My_DotNET_ToolBoxes\VitalTools\VitalTools\bin\Release\Newtonsoft.Json.dll
+C:\Users\renau\Projets\My_DotNET_ToolBoxes\VitalTools\VitalTools\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\renau\Projets\My_DotNET_ToolBoxes\VitalTools\VitalTools\bin\Release\System.Web.Http.dll
+C:\Users\renau\Projets\My_DotNET_ToolBoxes\VitalTools\VitalTools\bin\Release\Newtonsoft.Json.xml
+C:\Users\renau\Projets\My_DotNET_ToolBoxes\VitalTools\VitalTools\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\renau\Projets\My_DotNET_ToolBoxes\VitalTools\VitalTools\bin\Release\System.Web.Http.xml
+C:\Users\renau\Projets\My_DotNET_ToolBoxes\VitalTools\VitalTools\bin\Release\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\renau\Projets\My_DotNET_ToolBoxes\VitalTools\VitalTools\bin\Release\fr\System.Web.Http.resources.dll
+C:\Users\renau\Projets\My_DotNET_ToolBoxes\VitalTools\VitalTools\obj\Release\VitalTools.csproj.CopyComplete
+C:\Users\renau\Projets\My_DotNET_ToolBoxes\VitalTools\VitalTools\obj\Release\VitalTools.dll
+C:\Users\renau\Projets\My_DotNET_ToolBoxes\VitalTools\VitalTools\obj\Release\VitalTools.pdb

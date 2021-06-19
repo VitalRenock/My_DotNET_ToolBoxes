@@ -47,8 +47,8 @@ C:\Users\renau\Projets\DotNET\My_DotNET_ToolBoxes\VitalTools\VitalTools\bin\Debu
 C:\Users\renau\Projets\DotNET\My_DotNET_ToolBoxes\VitalTools\VitalTools\bin\Debug\System.Web.Http.xml
 C:\Users\renau\Projets\DotNET\My_DotNET_ToolBoxes\VitalTools\VitalTools\bin\Debug\fr\System.Net.Http.Formatting.resources.dll
 C:\Users\renau\Projets\DotNET\My_DotNET_ToolBoxes\VitalTools\VitalTools\bin\Debug\fr\System.Web.Http.resources.dll
-C:\Users\renau\Projets\DotNET\My_DotNET_ToolBoxes\VitalTools\VitalTools\obj\Debug\VitalTools.csprojAssemblyReference.cache
 C:\Users\renau\Projets\DotNET\My_DotNET_ToolBoxes\VitalTools\VitalTools\obj\Debug\VitalTools.csproj.CoreCompileInputs.cache
 C:\Users\renau\Projets\DotNET\My_DotNET_ToolBoxes\VitalTools\VitalTools\obj\Debug\VitalTools.csproj.CopyComplete
 C:\Users\renau\Projets\DotNET\My_DotNET_ToolBoxes\VitalTools\VitalTools\obj\Debug\VitalTools.dll
 C:\Users\renau\Projets\DotNET\My_DotNET_ToolBoxes\VitalTools\VitalTools\obj\Debug\VitalTools.pdb
+C:\Users\renau\Projets\DotNET\My_DotNET_ToolBoxes\VitalTools\VitalTools\obj\Debug\VitalTools.csproj.AssemblyReference.cache
